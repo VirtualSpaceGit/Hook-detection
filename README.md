@@ -19,7 +19,7 @@ The **Anti-Tampering Protection** feature continuously monitors system integrity
 
 ## How It Works
 
-The Anti-Tampering system employs advanced detection techniques to monitor crucial APIs within the operating system:
+The Anti-Tampering system employs advanced detection techniques to monitor crucial APIs within the OS:
 
 1. **Initialization:**
 
