@@ -38,6 +38,7 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 
 * Compile and run the provided main.cpp C++ program.
 * The system will start continuous monitoring every 4 seconds by default.
+* Attach a debugger like [x64dbg](https://x64dbg.com/) with scyllahide enabled.
 * Observe real-time hook detection alerts and detailed reports in the console.
 
 ### Console Example
