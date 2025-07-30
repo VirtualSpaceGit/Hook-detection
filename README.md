@@ -2,13 +2,13 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protection**, an advanced security monitoring feature to protect against unauthorized changes, suspicious activities, and hook detection in real-time.
+Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protection**, an advanced security monitoring feature to detect and protect against unauthorized changes, suspicious activities, and hook detection in real-time.
 
 ---
 
 ## Overview
 
-The **Anti-Tampering Protection** feature continuously monitors system integrity and detects unauthorized modifications or hooks in critical APIs, ensuring robust real-time security.
+The **Anti-Tampering Protection** feature continuously monitors system integrity and detects unauthorized modifications or hooks in critical APIs, ensuring robust real-time security. This repo is a Proof Of Concept, and therefore not the real production code. This code is an example of how hooks are detected (not restored).
 
 ## Features
 
