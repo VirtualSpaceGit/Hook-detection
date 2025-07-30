@@ -36,7 +36,7 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 
 ## Usage 🧪
 
-* Compile and run the provided C++ program.
+* Compile and run the provided main.cpp C++ program.
 * The system will start continuous monitoring every 4 seconds by default.
 * Observe real-time hook detection alerts and detailed reports in the console.
 
@@ -45,20 +45,6 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 ```
 [!] NEW HOOK DETECTED [12:30:15] ntdll.dll!NtQueryInformationProcess (JMP Hook (0xE9))
 ```
-
-## Example Interface
-
-This PoC mirrors the clean and intuitive interface shown below:
-
-* **Enable Protection:** Toggle active monitoring on or off.
-* **Protection Active:** Indicates real-time protection status.
-* **Backdoor Detection, Real-time Monitor, Threat Detection:** Clearly structured feature sections for comprehensive security.
-
-## Future Enhancements 🚀
-
-* Web-based dashboard integration
-* Automated restoration or rollback of tampered APIs
-* Expanded compatibility and deeper system integration
 
 ## License
 
