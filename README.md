@@ -50,8 +50,6 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 
 This PoC mirrors the clean and intuitive interface shown below:
 
-![Anti-Tampering Protection](your-image-link.png)
-
 * **Enable Protection:** Toggle active monitoring on or off.
 * **Protection Active:** Indicates real-time protection status.
 * **Backdoor Detection, Real-time Monitor, Threat Detection:** Clearly structured feature sections for comprehensive security.
