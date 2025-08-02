@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protection**, an advanced security monitoring feature to detect unauthorized changes, suspicious activities, and hook detection in real-time.
+Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protection**, an advanced security monitoring code to detect unauthorized changes, suspicious activities, and hook detection in real-time.
 
 ---
 
