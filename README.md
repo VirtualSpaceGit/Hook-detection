@@ -1,4 +1,4 @@
-# VirtualSpace - Anti-Tampering Protection 🛡️
+# Hook detection 🛡️
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
