@@ -8,7 +8,7 @@ Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protecti
 
 ## Overview
 
-The **Anti-Tampering Protection** feature continuously monitors system integrity and detects unauthorized modifications or hooks in critical APIs, ensuring robust real-time security. This repo is a Proof Of Concept, and therefore not the real production code. This code is an example of how hooks are detected (not restored).
+The **Anti-Tampering Protection** code continuously monitors system integrity and detects unauthorized modifications or hooks in critical APIs, ensuring robust real-time security. This repo is a Proof Of Concept, and therefore not the real production code. This code is an example of how hooks are detected (not restored).
 
 ## Features
 
