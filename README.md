@@ -6,18 +6,18 @@ Welcome to the Proof of Concept (PoC) for **VirtualSpace Anti-Tampering Protecti
 
 ---
 
-## Overview
+## 📌 Overview
 
 The **Anti-Tampering Protection** code continuously monitors system integrity and detects unauthorized modifications or hooks in critical APIs, ensuring robust real-time security. This repo is a Proof Of Concept, and therefore not the real production code. This code is an example of how hooks are detected (not restored).
 
-## Features
+## 💎 Features
 
 * **Real-time Hook Detection:** Instantly detects API hooking attempts or suspicious alterations.
 * **Detailed Monitoring:** Continuously monitors critical system functions for signs of tampering.
 * **Real-time Alerts:** Immediate console alerts upon detection of suspicious activity.
 * **Clear Reporting:** Provides detailed reports of hook types and affected functions.
 
-## How It Works
+## 🔍 How It Works
 
 The Anti-Tampering system employs advanced detection techniques to monitor crucial APIs within the OS:
 
@@ -34,7 +34,7 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 
    * Outputs immediate alerts detailing detected hooks, including module and function names.
 
-## Usage
+## 🧪 Usage
 
 * Compile and run the provided main.cpp C++ application.
 * The system will start continuous monitoring every 4 seconds by default.
