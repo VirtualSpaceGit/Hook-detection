@@ -34,7 +34,7 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 
    * Outputs immediate alerts detailing detected hooks, including module and function names.
 
-## Usage 🧪
+## Usage
 
 * Compile and run the provided main.cpp C++ application.
 * The system will start continuous monitoring every 4 seconds by default.
@@ -47,6 +47,6 @@ The Anti-Tampering system employs advanced detection techniques to monitor cruci
 [!] NEW HOOK DETECTED [12:30:15] ntdll.dll!NtQueryInformationProcess (JMP Hook (0xE9))
 ```
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
